@@ -1,2 +1,2 @@
 # analog-clock
-This is a analog clock using CSS and JS 
+This is an analog clock using CSS and JS 
